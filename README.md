@@ -14,4 +14,4 @@ El repositorio a tenido cambios hoy 10 de Junio del año 2015.
 Seguiremos trabajando para complementar toda nuestra información.
 
 
-              ¡Feliz blogueo!
+#¡Buen Día!
