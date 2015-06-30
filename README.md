@@ -7,9 +7,12 @@ El acceso a BootCamp es completamente libre, todos los documentos estan al alcan
 
 El acceso a este repositorio se puede realizar mediante:
 
-A. Dispositivos moviles (Versiones de navegadores actualizados)
+A. Dispositivos moviles (Versiones de navegadores actualizados).
+
 B. Windows, OS X, GNU/Linux. Navegador recomendado: Firefox 37 u posterior.
+
 C. Aplicativo GitHub para diversas Plataformas.
+
 D. Herramienta Git proporcionada mediante Jackalope System (Solo para expertos.
       
 El repositorio a tenido cambios hoy 10 de Junio del año 2015.
