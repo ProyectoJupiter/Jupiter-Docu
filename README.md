@@ -1,8 +1,10 @@
-# Bootcamp
+# Box
 ¡Bienvenido al repositorio del proyecto Juggernaut Box!
 
-BootCamp es el repositorio del Proyecto Jackalope destino a almacenar toda la documentación requerida para el uso de las herramientas proporcionadas por el Proyecto.
+BootCamp es el repositorio del Proyecto Juggernaut destino a almacenar toda la documentación requerida para el uso de las herramientas proporcionadas por el Proyecto.
+
 El acceso a BootCamp es completamente libre, todos los documentos estan al alcance de quien los desee.
+
 El acceso a este repositorio se puede realizar mediante:
 
 A. Dispositivos moviles (Versiones de navegadores actualizados)
